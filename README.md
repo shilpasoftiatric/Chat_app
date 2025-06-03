@@ -16,7 +16,7 @@ A realtime chat app built using **React**, **Node.js**, **Express**, and **Socke
 
 ```bash
 # 1. Clone the repository
-git clone https://github.com/your-username/your-repo-name.git
+git clone https://github.com/shilpasoftiatric/Chat_app.git
 
 # 2. Install and run backend
 cd server
